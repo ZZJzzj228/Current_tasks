@@ -78,7 +78,7 @@ print(np.vstack((a, a)))
 
 ---
 ## Comments
-- Any questions: 273419137@qq,com or 18612535066
+- Any questions: 273419137@qq.com or 18612535066
 Thank you!
 
 

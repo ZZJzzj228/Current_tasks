@@ -19,6 +19,7 @@
  -  None.
 
 #### LeetCode
+Two exercises a week nowadays.
 - NO.7 整数反转
 
 ```python

@@ -1,17 +1,7 @@
 
 # Information Extraction
-## Table of Contents
----
-- Background
-- Install
-- Usage
-- Example Readmes
-- Related Efforts
-- Maintainers
-- Contributing
-- Licence
----
-### Related Efforts
+
+## Related Efforts
 - CCKS2021
 - LeetCode
 

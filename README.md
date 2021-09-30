@@ -11,6 +11,7 @@
 #### LeetCode
 Two exercises a week nowadays.
 - NO.7 整数反转
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |0007|[reverse-integer](https://leetcode-cn.com/problems/reverse-integer//) | Python3|Easy|
@@ -43,6 +44,7 @@ print(r)
 ```
 ---
 - NO.1929 列表合并
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1929|[concatenation-of-array](https://leetcode-cn.com/problems/concatenation-of-array/) | Python3|Easy|
